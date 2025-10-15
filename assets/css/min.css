@@ -843,7 +843,6 @@ nav .bar>li>a:hover:before {
 .Testimonials {
     padding: var(--padding);
     background-color: var(--color3);
-direction: rtl;
 }
 
 .Testimonials .contaner {
@@ -902,6 +901,7 @@ direction: rtl;
 .Testimonials .box p {
     color: var(--color2);
     line-height: 1.8;
+    direction: rtl;
 }
 
 /* End Testimonials */
@@ -1774,4 +1774,5 @@ direction: rtl;
 
 
 /* End footer */
+
 
