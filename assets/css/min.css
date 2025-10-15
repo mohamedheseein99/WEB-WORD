@@ -843,6 +843,7 @@ nav .bar>li>a:hover:before {
 .Testimonials {
     padding: var(--padding);
     background-color: var(--color3);
+            text-align: right;
 }
 
 .Testimonials .contaner {
@@ -1770,5 +1771,6 @@ nav .bar>li>a:hover:before {
     margin: 50px 0 0;
     border-top: 1.5px solid #444;
 }
+
 
 /* End footer */
