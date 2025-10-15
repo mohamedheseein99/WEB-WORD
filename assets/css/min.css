@@ -1530,6 +1530,15 @@ nav .bar>li>a:hover:before {
     color: #777;
 }
 
+.Website .box .bar .link li:last-of-type {
+    border-bottom: none;
+    padding: 30px;
+
+    a {
+        font-size: 30px;
+    }
+}
+
 .Website .box .bar .link li:hover,
 .Website .box .bar .link li:hover a {
     background-color: var(--color3);
@@ -1774,5 +1783,6 @@ nav .bar>li>a:hover:before {
 
 
 /* End footer */
+
 
 
